@@ -12,7 +12,6 @@ function agregarAmigo() {
     inputAmigo.value = "";
     inputAmigo.focus();
     renderizarlistaAmigos();
-    console.log(amigo);
 }
 
 function renderizarlistaAmigos(){
